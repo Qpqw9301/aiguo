@@ -1,5 +1,5 @@
 # 二、西方马克思主义思潮概论与批判
- ![image](https://github.com/Qpqw9301/maoism-library/blob/47f729781c15950310fe5b747f590694642fb08c/images/%E6%99%9A%E5%B9%B4%E5%8D%A2%E5%8D%A1%E5%A5%87.png)
+ ![image](https://github.com/Qpqw9301/aiguo/blob/9edb033a1ed9137deeb679532864f92e0ca0e495/images/%E6%99%9A%E5%B9%B4%E5%8D%A2%E5%8D%A1%E5%A5%87.png)
 &ensp;&ensp;&ensp;&ensp;*** 作为西马创始人之一的卢卡奇自己晚年都批判西马     
 书籍推荐：   
 卢卡奇： 历史与阶级意识新版序言，我走向马克思的道路，关于社会存在的本体论 ，卢卡奇自传        
